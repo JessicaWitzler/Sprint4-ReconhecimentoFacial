@@ -13,6 +13,12 @@ Jessica Costacurta - RM99068
 O objetivo deste projeto é desenvolver um sistema de reconhecimento facial em tempo real utilizando as bibliotecas dlib e OpenCV em Python.
 A aplicação busca oferecer uma alternativa segura, prática e eficiente aos métodos tradicionais de autenticação, substituindo o uso de senhas ou cartões que podem ser esquecidos, compartilhados ou clonados.
 
+## Como funciona o reconhecimento facial no app
+
+O reconhecimento facial é utilizado como método de login.
+Quando o usuário é identificado pela câmera, o sistema reconhece seu rosto e faz a autenticação automaticamente.
+Após isso, o app carrega o perfil do usuário, exibindo suas informações e acessos (simulação, sugestões, XP Bot e perfil).
+
 ## Execução
 
 Para a execução, é necessário ter baixado no computador o Python e o Cmake. 
